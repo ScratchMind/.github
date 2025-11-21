@@ -22,6 +22,8 @@ All models, optimizers, and training techniques are implemented from the mathema
 Everything is implemented from scratch.
 No “import model,” no shortcuts.
 
+>**NOTE:** Even though right now there will be external dependencies to *PyTorch* and *Scikit-Learn*, Eventual **GOAL** is to be self-sustaining ecosystem.
+
 ### **2. Evolution Over Recipes**
 
 Each repo follows the chronological development of its domain.
