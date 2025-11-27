@@ -53,6 +53,7 @@ Each repository includes its own **`TIMELINE.md`** describing the learning path 
 | **ScratchGrad**    | Autograd from scratch: Tensors, Layers, Non-Linearities    |
 | **ScratchVision** | Deep learning for images: convolutional networks, visual representation learning.  |
 | **ScratchGen**    | Generative modeling from scratch: probabilistic models, GANs, flows, diffusion.    |
+| **ScratchOptim** | Optimizers from first principles: GD, SGD, Momentum, Adam, and modern variants.  |
 
 ---
 
@@ -63,7 +64,6 @@ These repositories will be added as the ecosystem expands:
 | Project          | Description                                                                      |
 | ---------------- | -------------------------------------------------------------------------------- |
 | **ScratchSeq**   | Sequence modeling & language: RNNs, attention, transformers, GPT-style models.   |
-| **ScratchOptim** | Optimizers from first principles: GD, SGD, Momentum, Adam, and modern variants.  |
 | **ScratchData**  | Data pipelines, augmentations, loaders, synthetic data.                          |
 | **ScratchTrain** | Training stability, LR schedules, warmup, mixed-precision, distributed training. |
 | **ScratchNorm**  | Normalization layers: BatchNorm, LayerNorm, GroupNorm, RMSNorm.                  |
@@ -92,6 +92,7 @@ You can explore them:
 * **ScratchVision** → `ScratchVision/documentation/TIMELINE.md`
 * **ScratchGen** → `ScratchGen/documentation/TIMELINE.md`
 * **ScratchGrad** → `ScratchGrad/documentation/TIMELINE.md`
+* **ScratchOptim** → `ScratchOptim/documentation/TIMELINE.md`
 
 As new repositories are added, their TIMELINE.md will appear here as well.
 
